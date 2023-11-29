@@ -1,0 +1,7 @@
+selasa, 08.00-10.30, PBO
+Selasa, 13.00-14.40, AIK
+Selasa, 14.40-15.30, AOK
+Rabu, 08.00-09.40, APSI
+Rabu, 13.00-14.30, Kalkulus 2
+Jumat, 08.00-09.40, Komunikasi Data
+2
